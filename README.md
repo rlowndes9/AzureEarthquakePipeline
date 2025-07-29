@@ -1,7 +1,3 @@
-Got it! Here’s a concise, professional **project description** style README that focuses on **what you built**, its purpose, and the core components — rather than step-by-step instructions.
-
----
-
 # Earthquake Azure Data Engineering Pipeline
 
 ## Project Description
