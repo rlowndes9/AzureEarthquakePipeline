@@ -1,4 +1,5 @@
 # Earthquake Azure Data Engineering Pipeline
+![Architecture Diagram](PipelineDiagram.png)
 
 ## Project Description
 
